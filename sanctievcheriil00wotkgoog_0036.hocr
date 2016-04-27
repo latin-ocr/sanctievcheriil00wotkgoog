@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctievcheriil00wotkgoog_0036.png"; bbox 0 0 2902 4636; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 662 1735 693 1799">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 662 1735 693 1799">
+     <span class='ocr_line' id='line_1_1' title="bbox 662 1735 693 1799; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 662 1735 693 1799; x_wconf 91' lang='lat'><strong>1.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 285 1934 1075 2094">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 285 1934 1075 2114">
+     <span class='ocr_line' id='line_1_2' title="bbox 285 1934 1075 2094; baseline -0.004 -30"><span class='ocrx_word' id='word_1_2' title='bbox 285 1938 333 2064; x_wconf 88' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 380 1934 636 2062; x_wconf 83' lang='lat' dir='ltr'>Eucherii</span> <span class='ocrx_word' id='word_1_4' title='bbox 684 1935 1075 2094; x_wconf 76' lang='lat' dir='ltr'>Lugdunensis</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 572 2201 789 2310">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 572 2201 789 2310">
+     <span class='ocr_line' id='line_1_3' title="bbox 572 2201 789 2310; baseline -0.014 -25"><span class='ocrx_word' id='word_1_5' title='bbox 572 2201 789 2310; x_wconf 14' lang='lat' dir='ltr'><strong>Formulae.,4</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1456 4636">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1456 4636">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1456 4636; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1456 4636; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

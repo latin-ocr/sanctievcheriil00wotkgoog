@@ -1,0 +1,6 @@
+P = codex Parisinus
+S = codex Sessorium
+A = codex Parisinus 95559 ε. vmvm (1. epistula)
+
+ 
+

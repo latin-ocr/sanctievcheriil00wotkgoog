@@ -1,0 +1,10 @@
+S = Codex Sessorianus.
+P = Codex Parisinus
+
+A = Codex Augiensis CCXVIII s. IX.
+V = Codex Vaticanus 552 s. IX.
+
+G = Codex Parisinus 9380 (Biblia Theodulphi) s. VIII—IX.
+
+ 
+

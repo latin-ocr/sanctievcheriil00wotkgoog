@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctievcheriil00wotkgoog_0229.png"; bbox 0 0 2902 4636; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 254 1916 1083 2164">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 254 1916 1083 2164">
+     <span class='ocr_line' id='line_1_1' title="bbox 254 1916 585 1971; baseline -0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 254 1917 276 1970; x_wconf 92' lang='lat' dir='ltr'><strong>P</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 295 1941 329 1962; x_wconf 84' lang='lat'>=</span> <span class='ocrx_word' id='word_1_3' title='bbox 348 1916 430 1971; x_wconf 80' lang='lat' dir='ltr'>codex</span> <span class='ocrx_word' id='word_1_4' title='bbox 447 1916 585 1970; x_wconf 71' lang='lat' dir='ltr'>Parisinus</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 255 2003 621 2058; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 255 2004 273 2058; x_wconf 85' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_6' title='bbox 296 2028 330 2049; x_wconf 92' lang='lat'>=</span> <span class='ocrx_word' id='word_1_7' title='bbox 349 2003 431 2058; x_wconf 79' lang='lat' dir='ltr'>codex</span> <span class='ocrx_word' id='word_1_8' title='bbox 449 2003 621 2058; x_wconf 70' lang='lat' dir='ltr'>Sessorium</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 256 2091 1083 2164; baseline 0.002 -19"><span class='ocrx_word' id='word_1_9' title='bbox 256 2092 280 2145; x_wconf 77' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_10' title='bbox 301 2116 335 2139; x_wconf 97' lang='lat'>=</span> <span class='ocrx_word' id='word_1_11' title='bbox 354 2096 436 2151; x_wconf 83' lang='lat' dir='ltr'>codex</span> <span class='ocrx_word' id='word_1_12' title='bbox 454 2092 593 2146; x_wconf 69' lang='lat' dir='ltr'>Parisinus</span> <span class='ocrx_word' id='word_1_13' title='bbox 611 2094 699 2148; x_wconf 89' lang='grc'>95559</span> <span class='ocrx_word' id='word_1_14' title='bbox 716 2109 738 2147; x_wconf 75' lang='grc' dir='ltr'><strong>ε.</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 756 2092 887 2164; x_wconf 75' lang='lat' dir='ltr'><strong>vmvm</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 905 2091 938 2159; x_wconf 84' lang='lat'><strong>(1.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 956 2092 1083 2163; x_wconf 76' lang='lat' dir='ltr'>epistula)</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1456 4636">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1456 4636">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1456 4636; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1456 4636; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
